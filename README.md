@@ -1,2 +1,2 @@
 # albert_ner
-albert实现命名实体识别
+构建albert实现命名实体识别实例
